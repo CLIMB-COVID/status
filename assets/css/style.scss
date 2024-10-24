@@ -1,0 +1,45 @@
+---
+---
+
+$header-bg-color: #8B7968;
+$section-headings-color: #8B7968;
+
+@import 'jekyll-theme-minimal';
+
+.wrapper {
+    width: 1200px;
+    margin: 0 auto;
+}
+
+header {
+    width: 20%;
+    float: left;
+    position: inherit;
+    -webkit-font-smoothing: subpixel-antialiased;
+}
+
+section {
+    width: 75%;
+    float: right;
+    padding-bottom: 50px;
+}
+
+footer {
+    float: left;
+}
+
+@media print, screen and (max-width: 480px) {
+    header {
+        width: auto;
+    }
+}
+@media print, screen and (max-width: 720px) {
+    header {
+        width: auto;
+    }
+}
+@media print, screen and (max-width: 960px) {
+    header {
+        width: auto;
+    }
+}
