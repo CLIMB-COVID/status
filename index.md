@@ -1,6 +1,6 @@
 <div align="center">
     <h2 align="center">CLIMB-COVID Status Report</h2>
-    <h1 align="center">2026-02-09</h1>
+    <h1 align="center">2026-02-09 (Final Ingest)</h1>
 </div>
 
 ***
